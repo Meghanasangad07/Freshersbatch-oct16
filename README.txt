@@ -1,4 +1,4 @@
-*HTML assignments
+*HTML assignments AND *MINOR CHANGES INTO README.TXT FILE ON LINE ONE 
 
 *CSS assignments
 
