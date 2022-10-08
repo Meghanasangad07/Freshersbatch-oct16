@@ -3,3 +3,5 @@
 *CSS assignments
 
 *JS assignments
+
+*MINOR CHANGES
